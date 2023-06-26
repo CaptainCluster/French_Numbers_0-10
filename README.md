@@ -1,5 +1,2 @@
-# French_Numbers_0-10
-#This program is designed to help people learn
-#some basics of the French language.
-#By using this program, you can effectivaly 
-#learn the numbers 0-10 in French.
+This program is intended for novice French speakers. Learn the numbers ranging from 0 to 10 in French.
+The UI is tiny and simple to use. Just write your translation into a text field and the program determines whether you were right or wrong.
